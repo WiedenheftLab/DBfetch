@@ -3,7 +3,6 @@
 import sys
 import argparse
 import os
-import tqdm
 import re
 import subprocess
 import textwrap

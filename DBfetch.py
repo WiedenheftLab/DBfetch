@@ -1,4 +1,4 @@
-#!/software/mambaforge/envs/Murat_scripts/bin/python
+#!/usr/bin/python
 
 import sys
 import argparse
